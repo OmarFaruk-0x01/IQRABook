@@ -1,9 +1,9 @@
 const SHEETID = '1RnVetNff9FEq3F1nA9fHn2XMvSPP_6Bw0gg3jwIodTs';
-const APIKEY = 'AIzaSyCCqLlsLJ_pHodANDN7WdgKKt2aV-ee8kU';
+const APIKEY = '<Your APIKEY>';
 export const ADDFORMURL = 'https://forms.gle/qcKd78jr4dbMa4rF9';
 const URL = sheetRange =>
   `https://sheets.googleapis.com/v4/spreadsheets/${SHEETID}/values/${sheetRange}?key=${APIKEY}`;
-//sheets.googleapis.com/v4/spreadsheets/1RnVetNff9FEq3F1nA9fHn2XMvSPP_6Bw0gg3jwIodTs/values/A1:D5?key=
+
 import Axios from 'axios';
 
 export const GetCetagories = async () => {
