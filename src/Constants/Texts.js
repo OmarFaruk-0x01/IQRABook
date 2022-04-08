@@ -1,0 +1,27 @@
+export default {
+  homeScreen: 'সকল বই',
+  homeScreenHeader: 'বই সমূহ',
+  downloadScreen: 'সংরক্ষন করুন',
+  downloadScreenHeader: 'আপনার ই-বুক',
+  favouriteScreen: 'পছন্দের বই',
+  favouriteScreenHeader: 'পছন্দের ই-বুক সমূহ',
+  previewButton: 'এখন পড়ুন',
+  downloadButton: 'ডাউনলোড করুন',
+  allBookCeta: 'সকল ই-বুক',
+  emptyText: 'কোনো ই-বুক পাওয়া যায়নি',
+  alreadyBookFavourite: 'বইটি পছন্দের তালিকায় রয়েছে',
+  BookFavouriteAdded: 'বইটি পছন্দের তালিকায় সংযুক্ত করা হয়েছে',
+  ask_favRemoveHeader: 'পছন্দের তালিকা থেকে মুছে দিন',
+  ask_favRemoveDetails:
+    'আপনি পছন্দের তালিকা থেকে এই বইটি মুছে দিচ্ছেন। আপনি কি মুছে দিতে চান?',
+  ask_favRemoveCancleBtn: 'ফিরে যাবো',
+  ask_favRemoveBtn: 'মুছে দিবো',
+  removeFavToast: 'বইটি পছন্দের তালিকা থেকে মুছে দেওয়া হয়েছে',
+  offlineReading: 'বইটি সংরক্ষিত আছে',
+  downloadingDiologueHeader: 'সংরক্ষিত হচ্ছে...',
+  removeDownDiologeBody:
+    'সংরক্ষিত বইটি মুছে দিলে বইটি আপনি আর ইন্টারনেটবিহীন অবস্থায় চালাতে পারবেন না। আপনি কি সংরক্ষিত বইটি মুছে দিতে চাচ্ছেন?',
+  removeDownDiologeHeader: 'সংরক্ষিত বইটি মুছে যাবে',
+  removeDownBookToast: 'সংরক্ষিত বইটি মুছে দেওয়া হয়েছে।',
+  bookSuggesionText: 'নিজের পছন্দ অনুযায়ী বই পেতে চাইলে সাজেশন অ্যাড করুন',
+};
