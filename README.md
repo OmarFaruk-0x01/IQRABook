@@ -85,14 +85,8 @@ IQRABook is an Islamic Book Reader app made for book lovers with awesome feature
    
 
    </details>
-5. **Students can save search results in offline**
-   <details style="cursor: pointer;" ><summary>snapshot</summary>
 
-   <img  src="Screenshots/Screenshot_1649398165.png" width="300"/> 
-   
-   </details>
-   
-6. **Save Favourite Books**
+5. **Save Favourite Books**
    <details style="cursor: pointer;"><summary>snapshot</summary>
 
    <img  src="Screenshots/Screenshot_1649445591.png" width="300"/> 
